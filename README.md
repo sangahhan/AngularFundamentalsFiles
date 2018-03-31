@@ -8,3 +8,5 @@ The testing portion of the course uses two files which weren't created in the co
 
 **Executing server.sh:**
 If you are on a Linux or OSX box, you may need to execute "chmod +x server.sh" in order to run the node web server, or you can execute it with "bash server.sh" from the bash shell.
+
+TEST
